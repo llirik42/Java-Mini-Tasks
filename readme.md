@@ -1,0 +1,15 @@
+# Мини-задания по Java  
+
+1. [Types, classes, interfaces](Types-Classes-Interfaces)
+2. [Collections](Collections)
+3. [Exceptions, Streams](Exceptions-Streams)
+4. [Enums, Generics](Enums-Generics)
+5. [Threads](Threads)
+6. [MVC](MVC)
+7. [Swing](Swing)
+8. [Concurrency](Concurrency)
+9. [Synchronization](Synchronization)
+10. [Maven](Maven)
+11. [Networking](Networking)
+12. [HTTP(S), XML](HTTP-XML)
+13. [Design patterns](Design-Patterns)
